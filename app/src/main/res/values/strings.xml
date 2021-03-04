@@ -43,6 +43,6 @@
 
     <!-- permission rationale-->
     <string name="geofence_permission_rationale_title">We need the background location permission</string>
-    <string name="geofence_permission_rationale_message">The background location permission is used to remind you at a specific location</string>
+    <string name="geofence_permission_rationale_message">The background location permission is used to remind you at a specific location. To enable the background location permission, select "Allow all the time".</string>
     <string name="ok">OK</string>
 </resources>
